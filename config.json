@@ -1,8 +1,8 @@
 {
-  "TOKEN": "1235042476:AAFSxeIyhX-FBIkioSIkrULD3EByGFnRQWc",
+  "TOKEN": "1221711309:AAFRkvkQF7pGv8HNuKSmc8xyyAb3kzLiKqk",
   "AUTH": {
-    "ENABLE": false,
-    "PASSWORD": "",
-    "USERS": []
+    "ENABLE": true,
+    "PASSWORD": "9159",
+    "USERS": [@TioFlaviiin]
   }
 }
